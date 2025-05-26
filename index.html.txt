@@ -91,7 +91,7 @@
     <div class="logo" aria-label="Logo ShopeeFood">ShopeeFood</div>
     <div class="tagline">Pesan makanan favoritmu dengan mudah!</div>
     <a href="https://shopee.co.id/universal-link/now-food/shop/22136087?deep_and_deferred=1&amp;shareChannel=copy_link" target="_blank" rel="noopener noreferrer" class="btn-link" aria-label="Buka ShopeeFood Saya">Buka ShopeeFood Saya</a>
-    <div class="footer">Terima kasih sudah mampir! 🍽️</div>
+    <div class="footer">Terima kasih sudah mampir! ð½ï¸</div>
   </div>
 </body>
 </html>
